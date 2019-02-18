@@ -1,6 +1,6 @@
 Hi! 👋
 
-You've opened the IDE Sandbox. 🎉
+You've opened the IDE Sandbox. 🎉https://learn.co/tracks/full-stack-web-development-v6/intro-to-ruby-development/variables/ruby-data-types#
 
 The Sandbox is an environment that you can access on "readme" and "code-along" lessons in Learn. It's a great place to experiment with code when you're not working on a "lab" (labs open the IDE In Browser).
 
